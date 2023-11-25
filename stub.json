@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a typescript eventbus, the events will be classes and the eventbus must handle the events based on their type.","md5":"3b26c0ccf5c40d15fac37461bc9d2576"}]}
